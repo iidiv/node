@@ -1,0 +1,24 @@
+body{
+	padding: 50px;
+	font: 14px "Microsoft Yahei", Arial, sans-serif;
+}
+
+a{
+	color: #0087ff;
+}
+
+#content{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.room{
+	background-color: #ddd;
+	margin-bottom: 1em;
+}
+
+.messages{
+	width: 690px;
+	height: 300px;
+	background-color: #fff;
+}
